@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Order Online On Tomato</string>
+    <string name="quantityText">Qunatity</string>
+    <string name="quantityVal">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="priceVal">$0</string>
+    <string name="priceText">price</string>
+    <string name="order">order summary</string>
+    <string name="confirm">confirm order</string>
+    <string name="enter_name">enter name</string>
+    <string-array name="stringarr">
+        <item>
+
+        </item>
+    </string-array>
+</resources>
